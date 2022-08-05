@@ -32,7 +32,7 @@
 
 <hr/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueprint-12&layout=compact&theme=solarized-light)](https://github.com/blueprint-12/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blueprint-12&show_icons=true&theme=solarized-light)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueprint-12&layout=compact&theme=solarized-light)](https://github.com/blueprint-12/github-readme-stats)
 
 
 
