@@ -6,7 +6,7 @@
   <!--END_SECTION:waka-->
 
 
-<h3>📚Stacks<h3/>
+<h3>📚stacks</h3>
 
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a> <br/>
