@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=WonHee's%20Github&desc=since%202021&fontSize=60&fontAlignY=35&descSize=15)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=WonHee's%20Github&desc=since%202021&fontSize=60&fontAlignY=40&descSize=15)
 
 <div align="center">
 
