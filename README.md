@@ -78,9 +78,10 @@ Windows                  13 hrs 36 mins      ███████████�
 
 <hr/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueprint-12&layout=compact&theme=solarized-light)](https://github.com/blueprint-12/github-readme-stats)
 
 
 
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueprint-12&layout=compact&theme=ayu-mirage)](https://github.com/blueprint-12/github-readme-stats)
 
