@@ -53,6 +53,7 @@ Windows                  23 hrs 54 mins      ███████████�
  <img src="https://img.shields.io/badge/Font Awesome-528DD7?style=flat-square&logo=Font Awesome&logoColor=white"/>
  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white"/>
  <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React Query-FF4152?style=flat-square&logo=React Query&logoColor=white"/>
  
  
 <h3>🛠tools</h3> 
@@ -66,7 +67,6 @@ Windows                  23 hrs 54 mins      ███████████�
 <h3>🤸‍♀️interested</h3>
 
  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
- <img src="https://img.shields.io/badge/React Query-FF4152?style=flat-square&logo=React Query&logoColor=white"/>
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <br/>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
