@@ -4,7 +4,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-626%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-629%20hrs%2049%20mins-blue)
 
 **저는 저녁형 인간이에요. 🦉** 
 
@@ -36,7 +36,7 @@ Windows                  7 hrs 40 mins       ███████████�
 ```
 
 
- Last Updated on 23/03/2023 18:38:04 UTC
+ Last Updated on 24/03/2023 18:38:29 UTC
 <!--END_SECTION:waka-->
  
 
