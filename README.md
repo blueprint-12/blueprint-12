@@ -1,10 +1,6 @@
 
 <div align="left">
 
-<a href="https://github.com/blueprint-12/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueprint-12&theme=ayu-mirage" />
-</a>
-
  <h3>📚stacks</h3>
 
  
@@ -42,12 +38,13 @@
  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueprint-12&layout=compact&theme=ayu-mirage)](https://github.com/blueprint-12/github-readme-stats) -->
-
+  
+<h4></h4> 
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueprint-12&layout=compact)](https://github.com/blueprint-12/github-readme-stats)
 
  </div>
+ 
 
 <hr/>
 <div align="center">
