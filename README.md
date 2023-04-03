@@ -1,5 +1,5 @@
 
-<div align="left">
+<div align="center">
 
  <h3>📚stacks</h3>
 
