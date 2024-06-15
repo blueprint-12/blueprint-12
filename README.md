@@ -42,8 +42,6 @@
 <div align="center">
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-871%20hrs%203%20mins-blue)
-
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
@@ -70,7 +68,7 @@
 ```
 
 
- Last Updated on 14/06/2024 18:40:14 UTC
+ Last Updated on 15/06/2024 18:38:41 UTC
 <!--END_SECTION:waka-->
  
 
